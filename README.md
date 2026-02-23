@@ -11,6 +11,11 @@ Tools Used
 CodeVisionAVR: Used for C programming and generating the HEX file.
 Proteus: Used for circuit design and real-time hardware simulation.
 
+Environment
+CodeVisionAVR v3.12
+Proteus 8 Professional
+ATmega32 Microcontroller
+
 How to use
 The repository includes:
  `Code/`: Source code (`.c`) and CodeVision project files (`.prj`).
