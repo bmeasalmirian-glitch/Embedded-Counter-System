@@ -11,7 +11,7 @@ This project demonstrates a functional interface using an **ATmega32** microcont
 - **CodeVisionAVR:** Used for C programming and generating the HEX file.
 - **Proteus:** Used for circuit design and real-time hardware simulation.
 
-##Environment
+## Environment
 -CodeVisionAVR v3.12
 -Proteus 8 Professional
 -ATmega32 Microcontroller
