@@ -12,9 +12,9 @@ This project demonstrates a functional interface using an **ATmega32** microcont
 - **Proteus:** Used for circuit design and real-time hardware simulation.
 
 ## Environment
--CodeVisionAVR v3.12
--Proteus 8 Professional
--ATmega32 Microcontroller
+- **CodeVisionAVR v3.12
+- **Proteus 8 Professional
+- **ATmega32 Microcontroller
 
 ## How to use
 The repository includes:
